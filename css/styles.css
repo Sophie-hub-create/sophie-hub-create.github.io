@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+div:hover {
+    background-color: greenyellow;
+}
+
+.learn {
+    text-decoration: underline;
+}
+
+.bottomCloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.topCloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+#welcome {
+    background-color: #7CD1B8;
+    position: relative;
+    padding-top: 100px;
+}
