@@ -1,1 +1,1 @@
-sophie-hub-create.github.io/https-sophie-hub-create.github.io-me-/
+sophie-hub-create.github.io/sophie-hub-create.github.io-me-/
