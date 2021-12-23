@@ -1,1 +1,1 @@
-https://sophie-hub-create.github.io/It-s-Me/
+https://sophie-hub-create.github.io/Sophie-hub-create.github.io/
