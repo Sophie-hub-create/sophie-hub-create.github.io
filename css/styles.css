@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #7CD1B8;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    ;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.learn {
+    text-decoration: underline;
+}
+
+.bottomCloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.topCloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+#welcome {
+    background-color: #7CD1B8;
+    position: relative;
+    padding-top: 100px;
+}
+
+.git {
+    color: black;
+    display: block;
+    text-align: center;
+    background: rgb(0, 194, 120);
+    text-decoration: none;
+    padding: 2%;
+    box-shadow: 4px 4px 0px rgb(3, 125, 240);
+    transition: all .2s linear;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+.git:hover {
+    box-shadow: 0px 0px 2px rgb(3, 125, 240);
+    transform: translate(4px, 4px);
+    background: #7CD1B8;
+    transition: all .4s;
+    text-shadow: 0px 0px 4px rgb(255, 255, 255);
+}
